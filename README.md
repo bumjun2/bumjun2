@@ -2,8 +2,10 @@
 
   ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=bumjun2&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55)
 
-  <img width="863" alt="image" src="[![djlg6kkjn5ke0](https://github.com/bumjun2/bumjun2/assets/128454806/004d2f72-caf9-4ddc-a31a-83b524ac6c39](https://static-storychat.pstatic.net/2328902_28995352/djlg6kkjn5ke0.gif?type=rsc5))
-">
+  
+![djlg6kkjn5ke0](https://github.com/bumjun2/bumjun2/assets/128454806/6bc839f6-9d40-4c1b-a902-90e09105c986)
+
+
 
   <br/>
   <br/>
