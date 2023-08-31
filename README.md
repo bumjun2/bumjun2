@@ -4,10 +4,12 @@
 
   <br/>
   <br/>
-
-
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">  <img     
+개발도구
+   <img     
   src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> 
+
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"> 
+
 
   #### :pencil2: Study log
 
