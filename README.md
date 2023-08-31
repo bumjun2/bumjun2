@@ -9,6 +9,8 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">  <img     
   src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> 
 
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumjun2&show_icons=true&theme=radical)
+
 </div>
 
 
