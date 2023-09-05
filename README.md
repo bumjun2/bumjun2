@@ -23,7 +23,7 @@
 
   #### :pencil2: Study log
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumjun2&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 </div>
 
