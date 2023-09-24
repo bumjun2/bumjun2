@@ -14,8 +14,7 @@
 개발도구<br/>
    <img     
   src="https://img.shields.io/badge/VSC-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white"> 
-<br/><br/>
-스택 <br/>
+<br/><br/> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat&logo=JavaScript&logoColor=white" />
@@ -23,7 +22,7 @@
 
   #### :pencil2: Study log
 
-  [![bumjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumjun&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![bumjun's GitHub stats](https://github-readme-stats.vercel.app/api?username=bumjun2&show_icons=true&hide=contribs,issues&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
